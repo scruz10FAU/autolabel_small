@@ -1,0 +1,19 @@
+# ==== ML Utilities ====
+ultralytics>=8.3.98               # YOLOv8 and utils
+schedule==1.2.2                   # Simple job scheduling
+onnxruntime                       # ONNX model inference (use onnxruntime-gpu for CUDA)
+
+# ==== Vision & Image Processing ====
+opencv-python                     # cv2
+Pillow                            # PIL / ImageTk
+
+# ==== Scientific Computing ====
+numpy                             # array operations
+scipy                             # spatial transforms (Rotation)
+
+# ==== Plotting ====
+matplotlib                        # plots and widgets
+
+# ==== ZED SDK (not on PyPI) ====
+# pyzed is bundled with the Stereolabs ZED SDK.
+# Install via: python /usr/local/zed/get_python_api.py

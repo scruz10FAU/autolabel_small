@@ -1,0 +1,6 @@
+{
+    "0": {"name": "red_beacon",   "color": "red"},
+    "1": {"name": "green_beacon", "color": "green"},
+    "2": {"name": "blue_beacon",  "color": "blue"},
+    "3": {"name": "off_beacon", "color": "black"}
+}
